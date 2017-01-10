@@ -4,11 +4,16 @@ package com.fitness.model;
  * Created by yani on 23.11.2016 г..
  */
 
-public class Excercise {
+public class Exercise {
+
+    public static final String MUSCLE_GROUP_CHILD = "exercises";
 
     private String name;
 
-    public Excercise(String name) {
+    public Exercise()
+    {}
+
+    public Exercise(String name) {
         this.name = name;
     }
 

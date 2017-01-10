@@ -1,0 +1,6002 @@
+[
+  {
+    "muscleGroupId": "12",
+    "name": "Alternating Cable Shoulder Press",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Alternating Deltoid Raise",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Alternating Kettlebell Press",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Anti-Gravity Press",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Arm Circles",
+    "rating": "5.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Arnold Dumbbell Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Axle Clean And Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Back Flyes - With Bands",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Backward Medicine Ball Throw",
+    "rating": "6.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Band Pull Apart",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Barbell Front Raise",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Barbell Incline Shoulder Raise",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Barbell Rear Delt Row",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Barbell Shoulder Press",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Battling Ropes",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Bear Crawl Fire Feet",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Bear Crawl Shoulder Tap",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Bent Over Low-Pulley Side Lateral",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Bradford/Rocky Presses",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cable Internal Rotation",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cable Rear Delt Fly",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cable Rope Rear-Delt Rows",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cable Seated Lateral Raise",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cable Shoulder Press",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Car Drivers",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Chair Upper Body Stretch",
+    "rating": "4.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Circus Bell",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Clean and Jerk",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Clean and Press",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Crucifix",
+    "rating": "6.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Cuban Press",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Double Kettlebell Jerk",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Double Kettlebell Push Press",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Double Kettlebell Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Clean And Jerk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Incline Shoulder Raise",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Lying One-Arm Rear Lateral Raise",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Lying Rear Lateral Raise",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell One-Arm Shoulder Press",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell One-Arm Upright Row",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Raise",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Rear Delt Row",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Scaption",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Shoulder Press",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Dumbbell Squat To Shoulder Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Elbow Circles",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "External Rotation",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "External Rotation with Band",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "External Rotation with Cable",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Face Pull",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Cable Raise",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Dumbbell Raise",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Dumbbell Raise Using Towel",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Incline Dumbbell Raise",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Plate Raise",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Front Two-Dumbbell Raise",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Half-kneeling Dumbbell Shoulder Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Hand Stand Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Handstand Push-Ups",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Internal Rotation with Band",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Iron Cross",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Jerk Balance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Arnold Press",
+    "rating": "6.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Pirate Ships",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Seated Press",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Seesaw Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Thruster",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Turkish Get-Up (Lunge style)",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kettlebell Turkish Get-Up (Squat style)",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Kneeling Arm Drill",
+    "rating": "4.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Landmine Linear Jammer",
+    "rating": "6.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Lateral Raise - With Bands",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Leverage Shoulder Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Log Lift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Low Pulley Row To Neck",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Lying One-Arm Lateral Raise",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Lying Rear Delt Raise",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Machine Lateral Raise",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Machine Shoulder (Military) Press",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Medicine Ball Scoop Throw",
+    "rating": "3.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Incline Lateral Raise",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Clean and Jerk",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Jerk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Military Press To The Side",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Para Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Push Press",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Snatch",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Split Jerk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Kettlebell Split Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "One-Arm Side Laterals",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Plate Shoulder Circle Big To Small Rotation",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Power Partials",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Punches",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Push Press",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Push Press - Behind the Neck",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Rack Delivery",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Return Push from Stance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Reverse Flyes",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Reverse Flyes With External Rotation",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Reverse Machine Flyes",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Round The World Shoulder Stretch",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Barbell Military Press",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Bent-Over Rear Delt Raise",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Cable Shoulder Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Dumbbell Press",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Front Deltoid",
+    "rating": "4.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Seated Side Lateral Raise",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "See-Saw Press (Alternating Side Press)",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Shoulder Circles",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Shoulder Press - With Bands",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Shoulder Raise",
+    "rating": "4.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Shoulder Stretch",
+    "rating": "5.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Side Lateral Raise",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Side Laterals to Front Raise",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Side Wrist Pull",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Single Dumbbell Raise",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Single-Arm Linear Jammer",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Sled Overhead Backward Walk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Sled Reverse Flye",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Smith Incline Shoulder Raise",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Smith Machine One-Arm Upright Row",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Smith Machine Overhead Shoulder Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Snatch-Grip Behind-The-Neck Overhead Press",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Alternating Dumbbell Press",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Barbell Press Behind Neck",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Bradford Press",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Dumbbell Press",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Dumbbell Straight-Arm Front Delt Raise Above Head",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Front Barbell Raise Over Head",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Low-Pulley Deltoid Raise",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Military Press",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Palm-In One-Arm Dumbbell Press",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Palms-In Dumbbell Press",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Standing Two-Arm Overhead Throw",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Straight Raises on Incline Bench",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Suspended Back Fly",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Tall Muscle Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Two-Arm Kettlebell Clean",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Two-Arm Kettlebell Jerk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Two-Arm Kettlebell Military Press",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Upright Barbell Row",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Upward Stretch",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Wall Shoulder Tap",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "12",
+    "name": "Wall Walk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Alternate Hammer Curl",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Alternate Incline Dumbbell Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Barbell Curl",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Barbell Curls Lying Against An Incline",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Biceps Curl To Shoulder Press",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Brachialis-SMR",
+    "rating": "3.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Cable Hammer Curls - Rope Attachment",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Cable Preacher Curl",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Close-Grip EZ Bar Curl",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Close-Grip EZ-Bar Curl with Band",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Close-Grip Standing Barbell Curl",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Concentration Curls",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Cross Body Hammer Curl",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Drag Curl",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Dumbbell Alternate Bicep Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Dumbbell Bicep Curl",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Dumbbell Prone Incline Curl",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "EZ-Bar Curl",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Flexor Incline Dumbbell Curls",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Hammer Curls",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Hammer Plate Curl",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "High Cable Curls",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Incline Dumbbell Curl",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Incline Hammer Curls",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Incline Inner Biceps Curl",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Lying Cable Curl",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Lying Close-Grip Bar Curl On High Pulley",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Lying High Bench Barbell Curl",
+    "rating": "5.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Lying Supine Dumbbell Curl",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Machine Bicep Curl",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Machine Preacher Curls",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "One Arm Dumbbell Preacher Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "One-Arm Plank Dumbbell Biceps Curl",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Overhead Cable Curl",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Preacher Curl",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Preacher Hammer Dumbbell Curl",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Reverse Barbell Curl",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Reverse Barbell Preacher Curls",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Reverse Cable Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Reverse Plate Curls",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Seated Biceps",
+    "rating": "5.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Seated Close-Grip Concentration Barbell Curl",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Seated Dumbbell Curl",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Seated Dumbbell Inner Biceps Curl",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Seated Straight-Bar Curl Superset",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Spider Curl",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing Biceps Cable Curl",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing Biceps Stretch",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing Concentration Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing Dumbbell Reverse Curl",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing Inner-Biceps Curl",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing One-Arm Cable Curl",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Suspended Curl",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Two-Arm Dumbbell Preacher Curl",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Wide-Grip Standing Barbell Curl",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Zottman Curl",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "15",
+    "name": "Zottman Preacher Curl",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Atlas Stone Trainer",
+    "rating": "6.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Atlas Stones",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Axle Deadlift",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Cat Stretch",
+    "rating": "4.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Child\u0027s Pose",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Crossover Reverse Lunge",
+    "rating": "3.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Dancer\u0027s Stretch",
+    "rating": "5.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Deadlift with Bands",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Deadlift with Chains",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Deficit Deadlift",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Hug A Ball",
+    "rating": "5.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Hug Knees To Chest",
+    "rating": "4.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Hyperextensions (Back Extensions)",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Hyperextensions With No Hyperextension Bench",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Keg Load",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Lower Back-SMR",
+    "rating": "4.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Partner Flat-Bench Back Extension",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Partner Flat-Bench Back Extension With Hold",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Partner Supermans With Alternating High-Five",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Pelvic Tilt Into Bridge",
+    "rating": "5.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Pyramid",
+    "rating": "1.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Rack Pull with Bands",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Rack Pulls",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Reverse Band Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Seated Back Extension",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Seated Good Mornings",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Standing Pelvic Tilt",
+    "rating": "3.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Stiff Leg Barbell Good Morning",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Superman",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "5",
+    "name": "Weighted Ball Hyperextension",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Ankle Circles",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Anterior Tibialis-SMR",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Balance Board",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Barbell Seated Calf Raise",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Press On The Leg Press Machine",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Raise On A Dumbbell",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Raises - With Bands",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Stretch Elbows Against Wall",
+    "rating": "4.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calf Stretch Hands Against Wall",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Calves-SMR",
+    "rating": "6.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Donkey Calf Raises",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Dumbbell Seated One-Leg Calf Raise",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Foot-SMR",
+    "rating": "2.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Knee Circles",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Peroneals Stretch",
+    "rating": "3.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Peroneals-SMR",
+    "rating": "6.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Posterior Tibialis Stretch",
+    "rating": "1.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Rocking Standing Calf Raise",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Seated Calf Raise",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Seated Calf Stretch",
+    "rating": "4.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Smith Machine Calf Raise",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Smith Machine Reverse Calf Raises",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Standing Barbell Calf Raise",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Standing Calf Raises",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Standing Dumbbell Calf Raise",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Standing Gastrocnemius Calf Stretch",
+    "rating": "5.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "9",
+    "name": "Standing Soleus And Achilles Stretch",
+    "rating": "4.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Barbell Shrug",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Barbell Shrug Behind The Back",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Cable Shrugs",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Calf-Machine Shoulder Shrug",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Clean Shrug",
+    "rating": "6.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Dumbbell Shrug",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Kettlebell Sumo High Pull",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Leverage Shrug",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Scapular Pull-Up",
+    "rating": "6.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Smith Machine Behind the Back Shrug",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Smith Machine Shrug",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Smith Machine Upright Row",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Snatch Shrug",
+    "rating": "6.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Standing Dumbbell Upright Row",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Upright Cable Row",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "11",
+    "name": "Upright Row - With Bands",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Band Skull Crusher",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Bench Dips",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Bench Press - Powerlifting",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Bench Press with Chains",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Board Press",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Body Tricep Press",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Body Triceps Press Using Flat Bench",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Body-Up",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Cable Incline Triceps Extension",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Cable Lying Triceps Extension",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Cable One Arm Tricep Extension",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Cable Rope Overhead Triceps Extension",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Chain Handle Extension",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Close-Grip Barbell Bench Press",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Close-Grip Dumbbell Press",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Close-Grip EZ-Bar Press",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Close-Grip Push-Up off of a Dumbbell",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Cobra Triceps Extension",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Decline Close-Grip Bench To Skull Crusher",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Decline Dumbbell Triceps Extension",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Decline EZ Bar Triceps Extension",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Dip Machine",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Dips - Triceps Version",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Dumbbell Floor Press",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Dumbbell One-Arm Triceps Extension",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Dumbbell Tricep Extension -Pronated Grip",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "EZ-Bar Skullcrusher",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Floor Press",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Floor Press with Chains",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Incline Barbell Triceps Extension",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Incline Push-Up Close-Grip",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "JM Press",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "JM Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "JM Press With Bands",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Kneeling Cable Triceps Extension",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Low Cable Triceps Extension",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Lying Dumbbell Tricep Extension",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Lying Triceps Press",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Machine Triceps Extension",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "One Arm Floor Press",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "One Arm Pronated Dumbbell Triceps Extension",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "One Arm Supinated Dumbbell Triceps Extension",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Overhead Triceps",
+    "rating": "3.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Parallel Bar Dip",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Pin Presses",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Push-Ups - Close Triceps Position",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Reverse Band Bench Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Reverse Grip Triceps Pushdown",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Reverse Triceps Bench Press",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Ring Dips",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Russian Bar Dip",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Seated Triceps Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Sled Overhead Triceps Extension",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Smith Machine Close-Grip Bench Press",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Speed Band Overhead Triceps",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Dumbbell Triceps Extension",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Low-Pulley One-Arm Triceps Extension",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing One-Arm Dumbbell Triceps Extension",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Overhead Barbell Triceps Extension",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Standing Towel Triceps Extension",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Supine Chest Throw",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Suspended Triceps Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Tate Press",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Tricep Dumbbell Kickback",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Tricep Side Stretch",
+    "rating": "5.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Overhead Extension with Rope",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Plank Extension",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Pushdown",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Pushdown - Rope Attachment",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Pushdown - V-Bar Attachment",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Triceps Stretch",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "V-Sit Dumbbell Triceps Extension",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "10",
+    "name": "Weighted Bench Dip",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "90/90 Hamstring",
+    "rating": "5.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Alternating Hang Clean",
+    "rating": "4.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Alternating Leg Swing",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Ball Leg Curl",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Band Good Morning",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Band Good Morning (Pull Through)",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Barbell Deadlift",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Box Jump (Multiple Response)",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Box Skip",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Chair Leg Extended Stretch",
+    "rating": "2.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Clean",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Clean Deadlift",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Double Kettlebell Alternating Hang Clean",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Dumbbell Clean",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Floor Glute-Ham Raise",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Front Box Jump",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Front Leg Raises",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Glute Ham Raise",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Good Morning",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Good Morning off Pins",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hamstring Stretch",
+    "rating": "5.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hamstring-SMR",
+    "rating": "5.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hang Snatch",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hang Snatch - Below Knees",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hanging Bar Good Morning",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "High Kick",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hip Stretch With Twist",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Hurdle Hops",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Inchworm",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Intermediate Groin Stretch",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Kettlebell Dead Clean",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Kettlebell Hang Clean",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Kettlebell One-Legged Deadlift",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Knee To Chest",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Knee Tuck Jump",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Leg-Up Hamstring Stretch",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Linear 3-Part Start Technique",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Linear Acceleration Wall Drill",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Lunge Pass Through",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Lying Hamstring",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Lying Leg Curls",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Moving Claw Series",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Muscle Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Natural Glute Ham Raise",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "One-Arm Kettlebell Clean",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "One-Arm Kettlebell Swings",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "One-Arm Open Palm Kettlebell Clean",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Open Palm Kettlebell Clean",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Platform Hamstring Slides",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Power Clean",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Power Clean from Blocks",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Power Snatch",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Power Stairs",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Prone Manual Hamstring",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Prowler Sprint",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Reverse Band Sumo Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Reverse Hyperextension",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Romanian Deadlift",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Romanian Deadlift from Deficit",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Romanian Deadlift With Dumbbells",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Romanian Deadlift with Kettlebell",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Runner\u0027s Stretch",
+    "rating": "3.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Seated Band Hamstring Curl",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Seated Floor Hamstring Stretch",
+    "rating": "5.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Seated Hamstring",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Seated Hamstring and Calf Stretch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Seated Leg Curl",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Single Leg Deadlift",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Single-Leg Balance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Smith Machine Hang Power Clean",
+    "rating": "5.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Smith Machine Stiff-Legged Deadlift",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Snatch Deadlift",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Snatch Pull",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Split Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Split Squats",
+    "rating": "4.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Standing Hamstring and Calf Stretch",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Standing Leg Curl",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Standing Toe Touches",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Stiff-Legged Barbell Deadlift",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Stiff-Legged Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Stiff-Legged Dumbbell Deadlift",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Sumo Deadlift",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Sumo Deadlift with Bands",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Sumo Deadlift with Chains",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Suspended Leg Curl",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "The Straddle",
+    "rating": "4.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Upper Back-Leg Grab",
+    "rating": "5.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Vertical Swing",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "Wide Stance Stiff Legs",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "8",
+    "name": "World\u0027s Greatest Stretch",
+    "rating": "4.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "90-Degree Jump Squat Twist",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Alien Squat",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "All Fours Quad Stretch",
+    "rating": "5.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Alternate Leg Diagonal Bound",
+    "rating": "6.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Backward Drag",
+    "rating": "6.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Front-To-Back Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Full Squat",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Hack Squat",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Lunge",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Reverse Lunge",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Side Split Squat",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Squat",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Squat To A Bench",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Squat To A Box",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Step Ups",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Thruster",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Barbell Walking Lunge",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bear Crawl Sled Drags",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bench Jump",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bench Sprint",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bicycling",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bicycling, Stationary",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bodyweight Lunge",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bodyweight Reverse Lunge",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bodyweight Squat",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bodyweight Walking Lunge",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Bosu Ball Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Box Squat",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Box Squat with Bands",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Box Squat with Chains",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Burpee",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Burpee Box Jump",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Burpee Over Barbell",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Burpee Tuck Jump",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Burppe Box Jump",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Butt Kicks",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Cable Deadlifts",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Cable Hip Adduction",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Car Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Chair Squat",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Clean from Blocks",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Clean Pull",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Close-Stance Dumbbell Front Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Conan\u0027s Wheel",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Defensive Slide",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Depth Jump Leap",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Double Leg Butt Kick",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Double Under",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Alternating Lunge",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Front Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Goblet Squat",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Jump Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Lunge and Curl",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Lunges",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Overhead Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Pistol Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Rear Lunge",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Seated Box Jump",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Squat",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Squat Snatch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Squat To A Bench",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Step Ups",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Dumbbell Walking Lunge",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Elevated Back Lunge",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Elliptical Trainer",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Fast Kick With Arm Circles",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Fast Skipping",
+    "rating": "5.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Feet Jack",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Football Up-Down",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Forward Band Walk",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Frankenstein Squat",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Freehand Jump Squat",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Frog Hops",
+    "rating": "3.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Barbell Squat",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Barbell Squat To A Bench",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Cone Hops (or hurdle hops)",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Squat (Bodybuilder)",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Squat (Clean Grip)",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Squat Push Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front Squats With Two Kettlebells",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Front-To-Back Squat With Belt",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Goblet Squat",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Gorilla Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Hack Squat",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Hang Clean",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Hang Clean - Below the Knees",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Heaving Snatch Balance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "High Knee Jog",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Hip Flexion with Band",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Ice Skater",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Intermediate Hip Flexor and Quad Stretch",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Iron Crosses (stretch)",
+    "rating": "5.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jefferson Squats",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jerk Dip Squat",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jog In Place",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jogging-Treadmill",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jump Lunge To Feet Jack",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jump Squat",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jumping Jack",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jumping Jacks",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Jumping Knee Up Down",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Curtsy Lunge",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Fire Feet",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Pistol Squat",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Side Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Squat Clean",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Sumo Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kettlebell Thruster Progression",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Kneeling Hip Flexor",
+    "rating": "5.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lateral Hop 4 Times To Sprint",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lateral Hop Holding Dumbbells",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lateral Speed Step",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Leg Extensions",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Leg Press",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Leverage Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Linear Depth Jump",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Looking At Ceiling",
+    "rating": "4.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lunge Heel Kick",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lunge Sprint",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lying Machine Squat",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Lying Prone Quadriceps",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Machine Squat",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Medicine Ball Ninja",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Mountain Climbers",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Narrow Stance Hack Squats",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Narrow Stance Leg Press",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Narrow Stance Squats",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Olympic Squat",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "On Your Side Quad Stretch",
+    "rating": "3.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "On-Your-Back Quad Stretch",
+    "rating": "3.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "One Half Locust",
+    "rating": "4.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "One Leg Barbell Squat",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "One-Arm Overhead Kettlebell Squats",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "One-Arm Side Deadlift",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Overhead Squat",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Pistol Squat",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Plie Dumbbell Squat",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Pop Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Power Jerk",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Power Snatch from Blocks",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Quad Stretch",
+    "rating": "4.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Quadriceps-SMR",
+    "rating": "5.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Quick Leap",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Rear Leg Raises",
+    "rating": "3.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Recumbent Bike",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Reverse Band Box Squat",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Reverse Band Power Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Reverse Burpee",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Rickshaw Deadlift",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Rocket Jump",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Rope Jumping",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Rowing, Stationary",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Running Lunge",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Running, Treadmill",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Sandbag Load",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Scissors Jump",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Seated Leg Press",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Side Hop-Sprint",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Side Lunge",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Side Lunge Touching Heel",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Side Standing Long Jump",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Side to Side Box Shuffle",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Single Arm Overhead Kettlebell Squat",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Single Leg Butt Kick",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "7",
+    "name": "Single Leg Push-off",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "3/4 Sit-Up",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Ab Crunch Machine",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Ab Roller",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Advanced Kettlebell Windmill",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Air Bike",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Alternate Heel Touchers",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Barbell Ab Rollout",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Barbell Ab Rollout - On Knees",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Barbell Rollout from Bench",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Barbell Side Bend",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Bent Press",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Bent-Knee Hip Raise",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Bosu Ball Cable Crunch With Side Bends",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Bosu Ball Crunch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Bottoms Up",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Breakdancer",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Butt-Ups",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cable Crunch",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cable Judo Flip",
+    "rating": "5.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cable Reverse Crunch",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cable Russian Twists",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cable Seated Crunch",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cocoons",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Crab Toe Touch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cross Crunch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Cross-Body Crunch",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Crunch - Hands Overhead",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Crunch - Legs On Exercise Ball",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Crunches",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Dead Bug",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Decline Crunch",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Decline Oblique Crunch",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Decline Reverse Crunch",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Double Kettlebell Windmill",
+    "rating": "3.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Dumbbell Side Bend",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Dumbbell V-Sit Cross Jab",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Elbow to Knee",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Exercise Ball Crunch",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Exercise Ball Pull-In",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Flat Bench Leg Pull-In",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Flat Bench Lying Leg Raise",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Frog Sit-Ups",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Full Moon",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Gorilla Chin/Crunch",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Hanging Leg Raise",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Hanging Oblique Knee Raise",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Hanging Pike",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Jackknife Sit-Up",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Janda Sit-Up",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Kettlebell 3-Point Extension",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Kettlebell Figure 8",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Kettlebell Pass Between The Legs",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Kettlebell Windmill",
+    "rating": "7.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Knee/Hip Raise On Parallel Bars",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Landmine 180\u0027s",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Leg Pull-In",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Lower Back Curl",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Medicine Ball Full Twist",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Medicine Ball Rotational Throw",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Oblique Cable Crunch",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Oblique Crunches",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Oblique Crunches - On The Floor",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "One-Arm High-Pulley Cable Side Bends",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "One-Arm Medicine Ball Slam",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Otis-Up",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Overhead Stretch",
+    "rating": "3.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Pallof Press",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Pallof Press With Rotation",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner 3-Touch Motion Russian Twist",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Facing Planks With Alternating High-Five",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Hanging Knee Raise With Manual Resistance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Hanging Knee Raise With Throw Down",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Lying Leg Raise With Lateral Throw Down",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Lying Leg Raise With Throw Down",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Side-To-Side Russian Twist \u0026 Pass",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Sit-Up With High-Five",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Partner Target Sit-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Plank",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Plate Twist",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Press Sit-Up",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Reverse Crunch",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Rope Crunch",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Russian Twist",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Scissor Kick",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Seated Barbell Twist",
+    "rating": "4.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Seated Flat Bench Leg Pull-In",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Seated Leg Tucks",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Seated Overhead Stretch",
+    "rating": "4.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Seated Scissor Kick",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Shoulder Tap",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Side Bridge",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Side Jackknife",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Sit-Up",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Skin The Cat To Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Sledgehammer Swings",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Smith Machine Hip Raise",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Spell Caster",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Spider Crawl",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Stability Ball Pike With Knee Tuck",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Standing Cable Lift",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Standing Cable Wood Chop",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Standing Lateral Stretch",
+    "rating": "3.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Standing Rope Crunch",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Stomach Vacuum",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Straight-Legged Hip Raise",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Suitcase Crunch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Supine One-Arm Overhead Throw",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Supine Two-Arm Overhead Throw",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Suspended Crunch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Suspended Fallout",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Suspended Reverse Crunch",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Toe Touchers",
+    "rating": "6.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Torso Rotation",
+    "rating": "5.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Tuck Crunch",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "V-Sit Lying Down Ball Throw And Catch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Waiter\u0027s Carry",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Wall Mountain Climber",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Weighted Ball Side Bend",
+    "rating": "6.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Weighted Crunches",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Weighted Sit-Ups - With Bands",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Weighted Suitcase Crunch",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "13",
+    "name": "Wind Sprints",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Ankle On The Knee",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Barbell Glute Bridge",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Barbell Hip Thrust",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Butt Lift (Bridge)",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Downward Facing Balance",
+    "rating": "4.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Flutter Kicks",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Glute Bridge Hamstring Walkout",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Glute Kickback",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Hip Extension with Bands",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Hip Lift with Band",
+    "rating": "6.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Knee Across The Body",
+    "rating": "3.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Kneeling Jump Squat",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Kneeling Squat",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Leg Lift",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Lying Glute",
+    "rating": "3.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Neck Bridge Supine",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "One Knee To Chest",
+    "rating": "2.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "One-Legged Cable Kickback",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Physioball Hip Bridge",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Piriformis-SMR",
+    "rating": "6.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Pull Through",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Seated Glute",
+    "rating": "3.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Seated Glute Stretch",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Single Leg Glute Bridge",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Step-up with Knee Raise",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "14",
+    "name": "Suspended Hip Thrust",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Bottoms-Up Clean From The Hang Position",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Cable Wrist Curl",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Dumbbell Lying Pronation",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Dumbbell Lying Supination",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Farmer\u0027s Walk",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Finger Curls",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Kneeling Forearm Stretch",
+    "rating": "5.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Palms-Down Wrist Curl Over A Bench",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Palms-Up Barbell Wrist Curl Over A Bench",
+    "rating": "9.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Partner Farmer\u0027s Walk Competition",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Partner Suitcase Carry Competition",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Plate Pinch",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Rickshaw Carry",
+    "rating": "9.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated Dumbbell Palms-Down Wrist Curl",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated Dumbbell Palms-Up Wrist Curl",
+    "rating": "6.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated Palm-Up Barbell Wrist Curl",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated Palms-Down Barbell Wrist Curl",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Standing Olympic Plate Hand Squeeze",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Standing Palms-Up Barbell Behind The Back Wrist Curl",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Suitcase Dumbbell Carry",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Wrist Circles",
+    "rating": "2.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Wrist Roller",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "2",
+    "name": "Wrist Rotations with Straight Bar",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Chin To Chest Stretch",
+    "rating": "3.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Isometric Neck Exercise - Front And Back",
+    "rating": "6.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Isometric Neck Exercise - Sides",
+    "rating": "7.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Lying Face Down Plate Neck Resistance",
+    "rating": "9.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Lying Face Up Plate Neck Resistance",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Neck Bridge Prone",
+    "rating": "5.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Neck-SMR",
+    "rating": "2.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Seated Head Harness Neck Resistance",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "6",
+    "name": "Side Neck Stretch",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Around The World Pull-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Assisted Chin-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Band Assisted Pull-Up",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Bent-Arm Barbell Pullover",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Burpee Pull-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Cable Incline Pushdown",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Catch and Overhead Throw",
+    "rating": "5.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Chair Lower Back Stretch",
+    "rating": "3.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Chin-Up",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Close-Grip Front Lat Pulldown",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Dynamic Back Stretch",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Elevated Cable Rows",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Full Range-Of-Motion Lat Pulldown",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Gironda Sternum Chins",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Kipping Muscle Up",
+    "rating": "7.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Kneeling High Pulley Row",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Kneeling Single-Arm High Pulley Row",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "L-Sit Chin-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Latissimus Dorsi-SMR",
+    "rating": "4.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Leverage Iso Row",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "London Bridges",
+    "rating": "7.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Machine-Assisted Pull-Up",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Muscle Up",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Negative Pull-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Neutral-Grip Pull Ups",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "One Arm Against Wall",
+    "rating": "5.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "One Arm Lat Pulldown",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "One Handed Hang",
+    "rating": "3.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Overhead Lat",
+    "rating": "1.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Overhead Slam",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Pullups",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Rockers (Pullover To Press) Straight Bar",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Rocky Pull-Ups/Pulldowns",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Rope Climb",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Rope Straight-Arm Pulldown",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Shotgun Row",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Side To Side Chins",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Side-Lying Floor Stretch",
+    "rating": "1.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Straight-Arm Pulldown",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Underhand Cable Pulldowns",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "V-Bar Pulldown",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "V-Bar Pullup",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Weighted Pull Ups",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Wide-Grip Lat Pulldown",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Wide-Grip Pull-Up",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Wide-Grip Pulldown Behind The Neck",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "3",
+    "name": "Wide-Grip Rear Pull-Up",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Alternating Floor Press",
+    "rating": "6.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Around The Worlds",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bar Push-Up Smith Machine",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bar Throw And Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Barbell Bench Press - Medium Grip",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Barbell Bench Press-Wide Grip",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Barbell Guillotine Bench Press",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Barbell Incline Bench Press Medium-Grip",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Behind Head Chest Stretch",
+    "rating": "4.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bench Press - With Bands",
+    "rating": "5.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bench Press With Short Bands",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bent-Arm Dumbbell Pullover",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bodyweight Flyes",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Bosu Ball Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Burpee To Medicine Ball Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Butterfly",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Cable Chest Press",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Cable Crossover",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Cable Iron Cross",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chain Press",
+    "rating": "5.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest And Front Of Shoulder Stretch",
+    "rating": "3.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest Push (multiple response)",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest Push (single response)",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest Push from 3 point stance",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest Push with Run Release",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Chest Stretch on Stability Ball",
+    "rating": "3.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Clapping Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Clock Push-Up",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Close-Hands Push-Up",
+    "rating": "7.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Cross Over - With Bands",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Barbell Bench Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Dumbbell Bench Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Dumbbell Flyes",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Explosive Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Push-Up",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Decline Smith Press",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Diamond Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dips - Chest Version",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dive Bomber Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Drop Push",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dumbbell Bench Press",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dumbbell Bench Press with Neutral Grip",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dumbbell Flyes",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Dynamic Chest Stretch",
+    "rating": "5.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Elbows Back",
+    "rating": "4.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Extended Range One-Arm Kettlebell Floor Press",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Feet-Elevated TRX Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Flat Bench Cable Flyes",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Forward Drag with Press",
+    "rating": "6.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Front Raise And Pullover",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Hammer Grip Incline DB Bench Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Hand Release Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Heavy Bag Thrust",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Cable Chest Press",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Cable Flye",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Dumbbell Bench With Palms Facing In",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Dumbbell Flyes",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Dumbbell Flyes - With A Twist",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Dumbbell Press",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Dumbbell Press Reverse-Grip",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Push-Up",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Push-Up Depth Jump",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Push-Up Medium",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Push-Up Reverse Grip",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Incline Push-Up Wide",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Isometric Chest Squeezes",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Isometric Wipers",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Leg-Over Floor Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Leverage Chest Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Leverage Decline Chest Press",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Leverage Incline Chest Press",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Low Cable Crossover",
+    "rating": "9.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Machine Bench Press",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Medicine Ball Chest Pass",
+    "rating": "5.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Medicine-Ball Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Neck Press",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "One Arm Dumbbell Bench Press",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "One-Arm Flat Bench Dumbbell Flye",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "One-Arm Kettlebell Floor Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "One-Arm Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Plyo Kettlebell Pushups",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Plyo Push-up",
+    "rating": "7.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Push Up to Side Plank",
+    "rating": "7.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Push-Up Wide",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Push-Ups With Feet Elevated",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Push-Ups With Feet On An Exercise Ball",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Pushups",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Pushups (Close and Wide Hand Positions)",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Side To Side Push-Up",
+    "rating": "6.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Single-Arm Cable Crossover",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Single-Arm Push-Up",
+    "rating": "8.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Smith Machine Bench Press",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Smith Machine Decline Press",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Smith Machine Incline Bench Press",
+    "rating": "8.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Staggered Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Standing Cable Chest Press",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Straight-Arm Dumbbell Pullover",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Superman Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Suspended Chest Fly",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Suspended Push-Up",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Suspended Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Svend Press",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Tiger-Bend Push-Up",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Triple Clap Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Typewriter Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Weighted Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Weighted Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Wide-Grip Barbell Bench Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Wide-Grip Decline Barbell Bench Press",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Wide-Grip Decline Barbell Pullover",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "1",
+    "name": "Wide-Hands Push-Up",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Alternating Kettlebell Row",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Alternating Renegade Row",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Barbell Deadlift Bent Row Complex",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bent Over Barbell Row",
+    "rating": "8.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bent Over One-Arm Long Bar Row",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bent Over Two-Arm Long Bar Row",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bent Over Two-Dumbbell Row",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bent Over Two-Dumbbell Row With Palms In",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Bodyweight Mid Row",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Dumbbell Incline Row",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Incline Bench Pull",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Inverted Row",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Inverted Row with Straps",
+    "rating": "6.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Leverage High Row",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Lying Cambered Barbell Row",
+    "rating": "6.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Lying T-Bar Row",
+    "rating": "7.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Man Maker",
+    "rating": "8.4",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Middle Back Shrug",
+    "rating": "8.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Middle Back Stretch",
+    "rating": "3.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Mixed Grip Chin",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "One Arm Chin-Up",
+    "rating": "6.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "One-Arm Dumbbell Row",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "One-Arm Kettlebell Row",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "One-Arm Long Bar Row",
+    "rating": "9.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Partner Facing Feet-Elevated Side Plank With Band Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Partner Facing Plank With Band Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Partner Facing Side Plank With Band Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Pendlay Rown",
+    "rating": "8.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Plate Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Reverse Grip Bent-Over Rows",
+    "rating": "9.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Rhomboids-SMR",
+    "rating": "5.7",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Seated Cable Rows",
+    "rating": "8.8",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Seated One-arm Cable Pulley Rows",
+    "rating": "8.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Single-Arm Landmine Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Sled Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Smith Machine Bent Over Row",
+    "rating": "8.1",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Spinal Stretch",
+    "rating": "5.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Straight Bar Bench Mid Rows",
+    "rating": "6.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Suspended Row",
+    "rating": "7.6",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "T-Bar Row",
+    "rating": "8.9",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "T-Bar Row with Handle",
+    "rating": "9.5",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Two-Arm Kettlebell Row",
+    "rating": "7.3",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Upper Back Stretch",
+    "rating": "4.2",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Yates Row",
+    "rating": "0.0",
+    "equipmentType": ""
+  },
+  {
+    "muscleGroupId": "4",
+    "name": "Yates Row Reverse Grip",
+    "rating": "8.3",
+    "equipmentType": ""
+  }
+]

@@ -19,7 +19,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.fitness.ui.ExcercisesFragment;
+import com.fitness.ui.MuscleGroupsFragment;
 import com.fitness.ui.SignInActivity;
 import com.fitness.ui.WorkoutsFragment;
 import com.google.android.gms.auth.api.Auth;
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_workouts) {
             fragment = WorkoutsFragment.newInstance();
         } else if (id == R.id.nav_exercices) {
-            fragment = ExcercisesFragment.newInstance();
+            fragment = MuscleGroupsFragment.newInstance();
         }
 //        if (id == R.id.nav_camera) {
 //            // Handle the camera action
